@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @milzya
 - 👀 I’m interested in informatic technology,komputer technic
 - 🌱 I’m currently learning informatic technology,and komputer technic
-- 💞️ I’m looking to collaborate on never
 - 📫 How to reach me with gmail
 
 <!---
